@@ -2,14 +2,7 @@
 Workout Buddies is a simple JS app that allows fitness enthusiast to connect with each other for a workout. Using realtime data, a user can see other nearby users to connect with them and become buddies.  Also, users can see nearby workouts to join based on their fitness level. This will help create a community built on positive reinforcement, accountability and motivation.
 A simple JS app to help keep the fitness fun. Built by the guys at Group 3. 
 
-# Getting Started
-These instructions will get you started with a copy of the project on your local machine for deployment and testing purposes.
-
-## Prerequisites
-You will need a code editor. Ex. Visual Studio Code
-
-# Deployment
-These instructions will guide you to deploy this project on a live system
+https://shaindholakiya.github.io/workoutBuddies/
 
 # Built With
 * Materialize
